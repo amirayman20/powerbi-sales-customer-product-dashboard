@@ -56,7 +56,7 @@ powerbi-dashboard/
 
 # 🟦 1. Home Page
 <p align="center">
-  <img src="images/Home.png" width="90%" />
+  <img src="Images/Home.png" width="90%" />
 </p>
 
 A clean navigation page linking to:
@@ -68,7 +68,7 @@ A clean navigation page linking to:
 
 # 🟩 2. Sales Overview
 <p align="center">
-  <img src="images/sales_overview.png" width="90%" />
+  <img src="Images/sales_overview.png" width="90%" />
 </p>
 
 ### ⭐ KPIs
