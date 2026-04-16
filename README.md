@@ -13,17 +13,17 @@ The report is built directly on top of the **Gold Layer** generated from the SQL
 🔗 **SQL Project Repository:**  
 https://github.com/amirayman20/sql-data-analytics-project
 
-This dashboard represents the final reporting layer of the analytics pipeline:
-**SQL EDA → Advanced Analytics → Gold Views → Power BI Reporting**.
+This dashboard represents the final reporting layer of the analytics pipeline:  
+**SQL EDA → Advanced Analytics → Gold Views → Power BI Reporting**
 
 ---
 
 # 🏗️ Data Source
 The dashboard uses the following SQL analytical views:
 
-- `gold.report_sales`
-- `gold.report_customer`
-- `gold.report_products`
+- `gold.report_sales`  
+- `gold.report_customer`  
+- `gold.report_products`  
 
 These views include:
 - Sales metrics  
@@ -59,7 +59,7 @@ powerbi-dashboard/
   <img src="images/Home.png" width="90%" />
 </p>
 
-A clean navigation page with buttons linking to:
+A clean navigation page linking to:
 - Sales Analysis  
 - Customer Analysis  
 - Product Analysis  
@@ -71,7 +71,7 @@ A clean navigation page with buttons linking to:
   <img src="images/sales_overview.png" width="90%" />
 </p>
 
-### ⭐ **KPIs**
+### ⭐ KPIs
 - **44M** Total Sales  
 - **28K** Total Orders  
 - **18K** Customers  
@@ -79,13 +79,13 @@ A clean navigation page with buttons linking to:
 - **455.34** Avg Monthly Spent  
 - **152.79** Customer Recency  
 
-### 📊 **Visuals**
+### 📊 Visuals
 - Sales by Category  
 - Sales by Subcategory  
 - Top Products by Sales  
 - Product Performance Tree  
 
-### 🔍 **Insights**
+### 🔍 Insights
 - Bikes dominate total sales.  
 - Road & Mountain Bikes lead subcategory performance.  
 - A few products generate most of the revenue.  
@@ -97,19 +97,19 @@ A clean navigation page with buttons linking to:
   <img src="images/customers_insights.png" width="90%" />
 </p>
 
-### ⭐ **KPIs**
+### ⭐ KPIs
 - Customer Recency  
 - Average Monthly Spend  
 - Total Customers  
 - Total Orders  
 
-### 📊 **Visuals**
+### 📊 Visuals
 - Customer segmentation  
 - Spending behavior  
 - Recency distribution  
 - Customer performance metrics  
 
-### 🔍 **Insights**
+### 🔍 Insights
 - High‑recency customers contribute significantly to revenue.  
 - Loyal customer groups show strong monthly spending.  
 
@@ -120,20 +120,20 @@ A clean navigation page with buttons linking to:
   <img src="images/products_performance.png" width="90%" />
 </p>
 
-### ⭐ **KPIs**
+### ⭐ KPIs
 - Total Sales  
 - Total Orders  
 - Total Customers  
 - Average Selling Price  
 - Average Monthly Revenue  
 
-### 📊 **Visuals**
+### 📊 Visuals
 - Product Performance Tree  
 - Top Products by Sales  
 - Avg Monthly Revenue by Category  
 - Avg Selling Price by Category  
 
-### 🔍 **Insights**
+### 🔍 Insights
 - High‑Performer products generate most sales.  
 - Bikes lead in revenue and pricing.  
 - Accessories & Clothing provide stable secondary revenue.  
@@ -141,7 +141,7 @@ A clean navigation page with buttons linking to:
 ---
 
 # 🔗 Related Projects
-### **SQL Data Analytics Project (Source of Gold Layer)**
+### **SQL Data Analytics Project (Source of Gold Layer)**  
 https://github.com/amirayman20/sql-data-analytics-project
 
 ---
