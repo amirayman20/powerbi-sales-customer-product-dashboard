@@ -94,7 +94,7 @@ A clean navigation page linking to:
 
 # 🟧 3. Customer Insights
 <p align="center">
-  <img src="images/customers_insights.png" width="90%" />
+  <img src="Images/customers_insights.png" width="90%" />
 </p>
 
 ### ⭐ KPIs
@@ -117,7 +117,7 @@ A clean navigation page linking to:
 
 # 🟪 4. Product Performance
 <p align="center">
-  <img src="images/products_performance.png" width="90%" />
+  <img src="Images/products_performance.png" width="90%" />
 </p>
 
 ### ⭐ KPIs
